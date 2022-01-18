@@ -1,0 +1,1 @@
+# devops-tools-sqlitestudio-build_from_src.txt
